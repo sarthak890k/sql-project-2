@@ -106,12 +106,12 @@ Some of the analysis performed includes:
 
 ---
 
-##💡 Business Recommendations
+## 💡 Business Recommendations
 
--Maintain inventory for top-selling products to minimize stockouts and ensure consistent product .
--Increase staffing during peak business hours to reduce customer wait times and improve overall service quality.
--Promote underperforming products through discounts, combo offers, or seasonal campaigns to boost sales.
--Expand high-performing product categories by introducing new flavors or variations based on customer preferences.
+- Maintain inventory for top-selling products to minimize stockouts and ensure consistent product .
+- Increase staffing during peak business hours to reduce customer wait times and improve overall service quality.
+- Promote underperforming products through discounts, combo offers, or seasonal campaigns to boost sales.
+- Expand high-performing product categories by introducing new flavors or variations based on customer preferences.
 
 
 ---
