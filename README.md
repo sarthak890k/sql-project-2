@@ -1,1 +1,1 @@
-# sql-project-2
+# Retail Sales and Customer Analysis using SQL
